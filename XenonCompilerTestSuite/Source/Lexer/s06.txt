@@ -1,0 +1,10 @@
+﻿this is a test // of comments
+that// are inline
+/* multiline comment on a single line */
+// /*multiline start
+/* multiline comment
+keeps going on and 
+on and
+*/ ends here
+// and start at a line
+and keep going

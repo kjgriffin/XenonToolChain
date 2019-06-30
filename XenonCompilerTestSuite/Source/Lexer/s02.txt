@@ -1,0 +1,3 @@
+﻿module is a test of keywords.
+{ this
+should handle brackets and a multiword keyword}
